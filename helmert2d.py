@@ -4,11 +4,7 @@ Created on Fri Oct 14 20:21:47 2016
 
 @author: Vicent
 """
-<<<<<<< HEAD
-  
-=======
 
->>>>>>> 9c8fb5802db73c9eef143eb6379cdfaead4bd1e4
 import math
 import numpy as np
 import scipy.optimize as optimization
